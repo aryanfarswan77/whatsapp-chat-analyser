@@ -1,0 +1,72 @@
+01/10/2025, 08:15 - Aryan: Good morning everyone 😀
+01/10/2025, 08:16 - Riya: Good morning Aryan
+01/10/2025, 08:17 - Rohit: Good morning guys
+01/10/2025, 08:25 - Aryan: Did you all check the AIML project group instructions?
+01/10/2025, 08:27 - Riya: Yes I saw them last night
+01/10/2025, 08:29 - Rohit: Not yet, I will check now
+01/10/2025, 09:02 - Aryan: We have to finalise the dataset today
+01/10/2025, 09:05 - Riya: Let us keep it related to whatsapp chat analysis only
+01/10/2025, 09:07 - Rohit: That will be fun, we can also do sentiment analysis 😁
+01/10/2025, 09:10 - Aryan: Yes and also find most active person and peak hours
+01/10/2025, 09:15 - group_notification: Messages to this group are now secured with end-to-end encryption.
+01/10/2025, 10:01 - Riya: Sharing a pdf now
+01/10/2025, 10:01 - Riya: <Media omitted>
+01/10/2025, 10:05 - Aryan: Got it, thanks
+01/10/2025, 10:07 - Rohit: Thanks Riya
+01/10/2025, 11:30 - Aryan: I will write the preprocessing code today
+01/10/2025, 11:45 - Riya: Okay, I will handle visualisations
+01/10/2025, 11:50 - Rohit: I can write a small report and summary
+01/10/2025, 12:05 - Aryan: Perfect, we will divide tasks like that
+01/10/2025, 13:20 - Riya: Anyone free for quick call at 15:00?
+01/10/2025, 13:23 - Rohit: Yes I am free
+01/10/2025, 13:25 - Aryan: Same, I am also free
+01/10/2025, 15:02 - Aryan: Joining the call now
+01/10/2025, 15:03 - Riya: On call
+01/10/2025, 15:03 - Rohit: On call
+01/10/2025, 16:10 - Riya: Call was productive
+01/10/2025, 16:12 - Aryan: Yes, now things are clear
+01/10/2025, 16:15 - Rohit: We should save this chat as test dataset later 😄
+01/10/2025, 18:45 - Aryan: Starting with basic statistics now
+01/10/2025, 18:50 - Riya: Send screenshot once done
+01/10/2025, 19:05 - Aryan: Total messages count feature is working
+01/10/2025, 19:06 - Rohit: Nice
+01/10/2025, 20:10 - Riya: What about most active hour feature?
+01/10/2025, 20:20 - Aryan: Working on it, will finish soon
+02/10/2025, 07:55 - Rohit: Good morning
+02/10/2025, 07:56 - Riya: Good morning 🌞
+02/10/2025, 08:01 - Aryan: Good morning
+02/10/2025, 08:10 - Aryan: Yesterday I pushed code to github
+02/10/2025, 08:14 - Riya: Share link here
+02/10/2025, 08:15 - Aryan: https://github.com/samplerepo/whatsapp-chat-analyser
+02/10/2025, 08:20 - Rohit: Cloned the repo
+02/10/2025, 09:05 - Riya: I added a bar chart for messages per user 📊
+02/10/2025, 09:12 - Aryan: Looks good
+02/10/2025, 09:20 - Rohit: We should also add word cloud of most used words
+02/10/2025, 10:01 - Riya: Yes, but we will need stopwords list
+02/10/2025, 10:05 - Aryan: I will prepare a small stopwords list
+02/10/2025, 11:30 - Rohit: Do we need sentiment analysis or is it optional?
+02/10/2025, 11:40 - Aryan: Keep it optional for now
+02/10/2025, 12:05 - Riya: Agreed, we can add it later if time is left
+02/10/2025, 13:15 - Aryan: Just tested media messages handling
+02/10/2025, 13:16 - Aryan: Lines with text <Media omitted> are counted as media messages
+02/10/2025, 13:25 - Rohit: Good idea
+02/10/2025, 14:00 - Riya: I will now clean emojis from text for word frequency
+02/10/2025, 14:05 - Aryan: Maybe keep emojis count as separate feature
+02/10/2025, 14:10 - Riya: Yes, that is better
+02/10/2025, 15:30 - Rohit: My report draft is almost ready
+02/10/2025, 15:45 - Aryan: Share it here once done
+02/10/2025, 16:05 - Rohit: First draft ready
+02/10/2025, 16:05 - Rohit: <Media omitted>
+02/10/2025, 16:10 - Riya: I will review it in the evening
+02/10/2025, 18:25 - Aryan: Running analyser on this same chat as test
+02/10/2025, 18:40 - Aryan: Result says I am the most active member 😂
+02/10/2025, 18:42 - Riya: Haha, that is true
+02/10/2025, 18:45 - Rohit: No doubt about that
+02/10/2025, 19:10 - Riya: Peak activity is between 08:00 and 10:00
+02/10/2025, 19:15 - Aryan: Nice, the logic is correct
+02/10/2025, 20:05 - Rohit: I just deleted one test message
+02/10/2025, 20:06 - Rohit: This message was deleted
+02/10/2025, 20:15 - Aryan: Good, now analyser can handle deleted messages too
+02/10/2025, 21:00 - Riya: We are almost done with the project 🎉
+02/10/2025, 21:10 - Aryan: Great work team
+02/10/2025, 21:12 - Rohit: Yes, good job everyone
